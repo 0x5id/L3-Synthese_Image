@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668403464 source:/home/sid/Documents/synthese image/Projet/Projet/projet.cpp
+	<GL/glut.h>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<jpeglib.h>
+	<unistd.h>
+
